@@ -1,0 +1,2 @@
+C - mpicc
+C++ - mpiCC, mpicxx, mpic++
